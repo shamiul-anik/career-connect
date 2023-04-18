@@ -1,0 +1,157 @@
+[
+	{
+		"id": 1,
+		"company_logo": "https://i.ibb.co/ZfW66JH/google.png",
+		"job_title": "Technical Database Engineer",
+		"company_name": "Google LLC",
+		"work_environment": "On-site",
+		"job_type": "Full Time",
+		"location": "California, United States",
+		"salary": "125K-170K",
+		"job_description": "As a Technical Database Engineer, you will be responsible for the design, implementation, and maintenance of Google's database infrastructure. You will work with other engineers to develop, deploy, and support new and existing database technologies, ensuring high performance, availability, and scalability.",
+		"job_responsibilities": [
+			"Design, deploy and maintain Google's database infrastructure.",
+			"Collaborate with cross-functional teams to develop and deploy new database technologies.",
+			"Ensure high performance, availability, and scalability of the database systems.",
+			"Develop and implement disaster recovery and backup procedures.",
+			"Monitor and optimize database performance.",
+			"Provide technical support for database-related issues."
+		],
+		"educational_requirements": "Bachelor's or Master's degree in Computer Science or a related field.",
+		"experiences": "3+ years of experience in database administration and design.",
+		"contact_information": [
+			{
+				"phone": "+1 123-456-7890",
+				"email": "careers@google.com"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"company_logo": "https://i.ibb.co/r0sy0qc/netflix.png",
+		"job_title": "Senior Product Designer",
+		"company_name": "Netflix",
+		"work_environment": "Remote",
+		"job_type": "Part Time",
+		"location": "Los Angeles, United States",
+		"salary": "60K-120K",
+		"job_description": "As a Senior Product Designer at Netflix, you will be responsible for leading the design of new products and features for the platform. You will collaborate with cross-functional teams to define user experiences, create design solutions, and ensure consistency across all Netflix products.",
+		"job_responsibilities": [
+			"Lead the design of new products and features for the Netflix platform.",
+			"Collaborate with cross-functional teams to define user experiences.",
+			"Create design solutions that balance user needs, business objectives, and technical constraints.",
+			"Ensure consistency across all Netflix products.",
+			"Mentor and support junior designers on the team."
+		],
+		"educational_requirements": "Bachelor's or Master's degree in Design or a related field.",
+		"experiences": "5+ years of experience in product design",
+		"contact_information": [
+			{
+				"phone": "+1 123-456-1112",
+				"email": "careers@netflix.com"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"company_logo": "https://i.ibb.co/BZVBdq3/tesla.png",
+		"job_title": "Data Analyst",
+		"company_name": "Tesla",
+		"work_environment": "On-site",
+		"job_type": "Full Time",
+		"location": "Austin, United States",
+		"salary": "120K-160K",
+		"job_description": "As a data analyst at Tesla, you will be responsible for collecting, analyzing, and interpreting large amounts of data to help drive business decisions. You will work closely with various teams to provide insights and recommendations for improvements.",
+		"job_responsibilities": [
+			"Collect and analyze large amounts of data from various sources.",
+			"Create visualizations and reports to communicate insights to stakeholders.",
+			"Develop and maintain databases and data systems.",
+			"Identify patterns and trends in data to make recommendations for process improvements."
+		],
+		"educational_requirements": "Bachelor's degree in a relevant field such as statistics, mathematics, computer science, or data analytics.",
+		"experiences": "Minimum 1 year of experience in a data analyst or related role.",
+		"contact_information": [
+			{
+				"phone": "666-666-6666",
+				"email": "jobs@tesla.com"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"company_logo": "https://i.ibb.co/D9f4P3Z/sony.png",
+		"job_title": "Software Engineer",
+		"company_name": "Sony",
+		"work_environment": "Remote",
+		"job_type": "Full Time",
+		"location": "Tokyo, Japan",
+		"salary": "240K-320K",
+		"job_description": "As a software engineer at Sony, you will be responsible for designing, developing, and maintaining software solutions that meet customer needs. You will work in a collaborative environment with other engineers and stakeholders to ensure that projects are delivered on time and within budget.",
+		"job_responsibilities": [
+			"Design and develop software solutions that meet customer needs.",
+			"Collaborate with other engineers and stakeholders to ensure that projects are delivered on time and within budget.",
+			"Write clean and maintainable code.",
+			"Troubleshoot and debug code as necessary."
+		],
+		"educational_requirements": "Bachelor's or Master's degree in computer science or a related field.",
+		"experiences": "4+ years of experience in software engineering or a related field.",
+		"contact_information": [
+			{
+				"phone": "777-777-7777",
+				"email": "jobs@sony.com"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"company_logo": "https://i.ibb.co/Mk6jrft/amazon.png",
+		"job_title": "Designer",
+		"company_name": "Amazon",
+		"work_environment": "On-site",
+		"job_type": "Part Time",
+		"location": "Washington, United States",
+		"salary": "60K-130K",
+		"job_description": "We are looking for a talented Designer to create amazing user experiences. The ideal candidate should have an eye for clean and artful design, possess superior UI skills and be able to translate high-level requirements into interaction flows and artifacts, and transform them into beautiful, intuitive, and functional user interfaces.",
+		"job_responsibilities": [
+			"Execute all visual design stages from concept to final hand-off to engineering.",
+			"Conceptualize original ideas that bring simplicity and user friendliness to complex design roadblocks.",
+			"Create wireframes, storyboards, user flows, process flows, and site maps to effectively communicate interaction and design ideas.",
+			"Present and defend designs and key deliverables to peers and executive level stakeholders.",
+			"Conduct user research and evaluate user feedback."
+		],
+		"educational_requirements": "Bachelor’s degree in Graphic Design, Visual Arts, or a related field.",
+		"experiences": "2+ years of professional experience in designing brand identities, grid systems, editorial layouts, and applications for web, desktop, and mobile.",
+		"contact_information": [
+			{
+				"phone": "888-888-8888",
+				"email": "designer@amazon.com"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"company_logo": "https://i.ibb.co/xqpjdB7/facebook.png",
+		"job_title": "Software Engineer",
+		"company_name": "Facebook",
+		"work_environment": "On-site",
+		"job_type": "Full Time",
+		"location": "California, United States",
+		"salary": "115K-145K",
+		"job_description": "We are looking for a highly skilled Software Engineer to join our team. The ideal candidate should be able to design, develop, and maintain software solutions that power the world's largest social network, using cutting-edge technologies and frameworks.",
+		"job_responsibilities": [
+			"Design, develop, and maintain software solutions.",
+			"Work closely with product managers and designers to define and implement new features.",
+			"Collaborate with cross-functional teams to identify and resolve software defects.",
+			"Write clean, efficient, and well-documented code.",
+			"Participate in code reviews and knowledge sharing sessions."
+		],
+		"educational_requirements": "Bachelor's degree in Computer Science or a related field.",
+		"experiences": "6+ years of professional experience in software development, with a strong understanding of computer science fundamentals.",
+		"contact_information": [
+			{
+				"phone": "999-999-9999",
+				"email": "engineer@facebook.com"
+			}
+		]
+	}
+]
