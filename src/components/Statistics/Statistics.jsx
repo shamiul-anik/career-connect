@@ -14,6 +14,7 @@ const Statistics = () => {
     { assignmentNo: 'A6', name: 'Assignment-6', marks: 58 },
     { assignmentNo: 'A7', name: 'Assignment-7', marks: 60 },
     { assignmentNo: 'A8', name: 'Assignment-8', marks: 60 },
+    { assignmentNo: 'A9', name: 'Assignment-9', marks: 60 },
   ];
 
   return (
